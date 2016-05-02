@@ -17,9 +17,12 @@ This adapter board transform the Geeetech CY7C68013A board into a USB2LPT rev 1.
 The Geeetech variant has the RESET pushbutton near the USB connector whereas the LCSoft is located on the other side of the PCB.**
 
 Geeetech variant:
+
 ![Geeetech_CY7C68013.jpg](https://bitbucket.org/repo/XkA6Mb/images/3584584708-Geeetech_CY7C68013.jpg)
 
+
 LCSoft variant:
+
 ![Lcsoft-miniboard-front.jpg](https://bitbucket.org/repo/XkA6Mb/images/4114682664-Lcsoft-miniboard-front.jpg)
 
 ### Credits ###
